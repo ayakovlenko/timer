@@ -1,0 +1,5 @@
+# timer
+
+```sh
+timer [minutes]
+```
